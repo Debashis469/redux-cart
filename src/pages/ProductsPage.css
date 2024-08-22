@@ -1,0 +1,10 @@
+.product-page {
+  padding: 16px; /* Adjust padding to fit your design */
+  margin: 0 auto; 
+  margin-top: 70px;
+  max-width: 1200px; /* Set a max-width to prevent it from stretching too wide */
+}
+
+.product-card {
+  max-width: 100%; /* Ensure card takes up full available width */
+}
